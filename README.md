@@ -20,7 +20,10 @@
         
   
 - CURRENT CLASSES
-  - CPSC - 2150/2151; 2310/2311; 3120; 4050
+  - CPSC - 2150/2151
+           2310/2311
+           3120
+           4050
   
 - CONTACT:
   - E-mail - chasdun940@gmail.com
